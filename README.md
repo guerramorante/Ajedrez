@@ -1,5 +1,5 @@
 # Ajedrez
-Este es el enlace del repositorio:
+Este es el enlace del repositorio: https://github.com/guerramorante/Ajedrez.git
 
 'tablero_inicial = '♜\t♞\t♝\t♛\t♚\t♝\t♞\t♜\n♟\t♟\t♟\t♟\t♟\t♟\t♟\t♟\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n♙\t♙\t♙\t♙\t♙\t♙\t♙\t♙\n♖\t♘\t♗\t♕\t♔\t♗\t♘\t♖'
     tablero = []
